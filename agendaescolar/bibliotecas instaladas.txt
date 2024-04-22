@@ -1,0 +1,27 @@
+React Navigation
+
+npm install @react-navigation/native
+
+Expo managed project
+
+npx expo install react-native-screens react-native-safe-area-context
+
+Native Screens
+
+npm install react-native-screens react-native-safe-area-context
+
+Developer tools
+
+npm install @react-navigation/devtools
+
+Stack Navigation
+
+npm install @react-navigation/native-stack
+
+Tab Navegation
+
+npm install @react-navigation/bottom-tabs
+
+Calendario
+
+npm install react-native-calendars
