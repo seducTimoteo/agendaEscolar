@@ -1,0 +1,3 @@
+O calendário está traduzido para português do Brasil e permite a seleção de datas e a inclusão de eventos com informações relevantes. 
+
+A tela de gerenciamento apresenta um design simples, baseado nas informações fornecidas sobre a funcionalidade desejada. Para criar uma tela mais elaborada, são necessárias informações adicionais sobre as funcionalidades desejadas.
